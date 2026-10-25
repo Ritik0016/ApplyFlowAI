@@ -1,0 +1,20 @@
+{
+    "name": "Your Full Name",
+    "phone": "+91-XXXXXXXXXX",
+    "email": "your_email@gmail.com",
+    "linkedin": "https://linkedin.com/in/your-profile",
+    "github": "https://github.com/your-username",
+    "skills": [
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Add your skills here..."
+    ],
+    "experience_summary": "Brief summary of your experience, tech stack, and what you bring to the table.",
+    "achievements": "Key projects, achievements, and highlights worth mentioning.",
+    "resumes": {
+        "AI Engineer": "resumes/Your_AI_Resume.pdf",
+        "Software Engineer": "resumes/Your_SWE_Resume.pdf"
+    }
+}
